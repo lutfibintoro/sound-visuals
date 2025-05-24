@@ -1,1 +1,2 @@
-# P_Sound
+# sound visual
+## about this windows form app
