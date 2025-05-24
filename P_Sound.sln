@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantizationData", "QuantizationData\QuantizationData.csproj", "{EB7F48AC-001C-4933-B017-2AF2B41DEDBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantizationDataForm", "QuantizationDataForm\QuantizationDataForm.csproj", "{6F2C88F9-8AEB-4420-B78B-FFB3ADC23079}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB7F48AC-001C-4933-B017-2AF2B41DEDBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB7F48AC-001C-4933-B017-2AF2B41DEDBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB7F48AC-001C-4933-B017-2AF2B41DEDBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB7F48AC-001C-4933-B017-2AF2B41DEDBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F2C88F9-8AEB-4420-B78B-FFB3ADC23079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F2C88F9-8AEB-4420-B78B-FFB3ADC23079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F2C88F9-8AEB-4420-B78B-FFB3ADC23079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F2C88F9-8AEB-4420-B78B-FFB3ADC23079}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8757C20B-641B-4111-A4AC-F6DDEDA55660}
+	EndGlobalSection
+EndGlobal
